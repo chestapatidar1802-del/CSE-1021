@@ -1,0 +1,24 @@
+{
+    "trip": {
+        "destination": "goa",
+        "start": "10-10-2026",
+        "end": "13-10-2026",
+        "travellers": 2,
+        "budget": 15000.0
+    },
+    "expenses": [
+        {
+            "name": "hotel",
+            "amount": 5000.0
+        },
+        {
+            "name": "food",
+            "amount": 2000.0
+        },
+        {
+            "name": "travelle",
+            "amount": 3000.0
+        }
+    ],
+    "plans": []
+}
